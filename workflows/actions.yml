@@ -1,12 +1,12 @@
-name: must run on customer runner
+name: Must run on customer runner
 
 on: push 
 
 jobs: 
   init:
-    runs-on: self-hosted
-    steps:
-      -run: echo 'hello cloud gurus'
-      -run: echo $HOSTNAME
+     runs-on: self-hosted
+     steps:
+       -run : echo 'hello cloud gurus'
+       -run: echo $HOSTNAME
     
  
