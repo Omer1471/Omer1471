@@ -1,4 +1,4 @@
-name: Must run on customer runner
+name: Must run on Omer1471
 
 on: push 
 
