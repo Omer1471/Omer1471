@@ -1,4 +1,4 @@
-name:must run on customer runner
+name: must run on customer runner
 
 on: push 
 
