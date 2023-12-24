@@ -27,6 +27,8 @@ src="https://img.shields.io/github/followers/Omer1471?logo=github&style=for-the-
 
 ### Badges
 
+https://www.credly.com/users/liban-omer.c44d1d5e
+
 
 (https://www.credly.com/badges/02a7c21a-fd3b-4654-a4c0-961d64fe5c86/public_url)
 
