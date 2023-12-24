@@ -30,10 +30,6 @@ src="https://img.shields.io/github/followers/Omer1471?logo=github&style=for-the-
 https://www.credly.com/users/liban-omer.c44d1d5e
 
 
-(https://www.credly.com/badges/02a7c21a-fd3b-4654-a4c0-961d64fe5c86/public_url)
-
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Omer1471"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omer1471&stroke=ffffff&background=581c87&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
