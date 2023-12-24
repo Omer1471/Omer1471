@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/Omer1471?logo=github&style=for-the-
 
 ### Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ddfe8fd-776a-47ee-827c-a3c9243c035d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ddfe8fd-776a-47ee-827c-a3c9243c035d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/5ddfe8fd-776a-47ee-827c-a3c9243c035d/public_url)
 
 
 
