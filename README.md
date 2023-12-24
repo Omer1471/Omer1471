@@ -7,7 +7,7 @@ Cloud Security Engineer
 I am Liban Omer, who came to London at the age of 11 without formal education, escaping the war in Somalia. Since then, I've tirelessly pursued education and developed a passion for Technology. I began my career as a Junior Linux System Engineer and progressed to become a Cloud Security Engineer. I thrive on collaborating with like-minded individuals to achieve success. My tech stack includes Golang, PostgreSQL, Python, Bash, HTML, CSS, JavaScript, and AWS, with core skills in Golang, PostgreSQL, Linux, and AWS. I have a particular interest in FinTech and government projects.
 
 * 🌍  I'm based in London
-* 🧠  I'm learning generative-ai
+* 🧠  I'm learning generative-ai and Terraform
 * 🤝  I'm open to collaborating on Fintech projects
 
 <a href="https://www.github.com/Omer1471" target="_blank" rel="noreferrer"><img
@@ -26,6 +26,10 @@ src="https://img.shields.io/github/followers/Omer1471?logo=github&style=for-the-
 <p align="left"> <a href="https://www.github.com/Omer1471" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/liban-omer/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@liban_jama" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ddfe8fd-776a-47ee-827c-a3c9243c035d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 
 <b>My GitHub Stats</b>
 
