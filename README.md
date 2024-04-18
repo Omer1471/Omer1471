@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Security Engineer
 -----------------------
 
-I am Liban Omer, who came to London at the age of 11 without formal education, escaping the war in Somalia. Since then, I've tirelessly pursued education and developed a passion for Technology. I began my career as a Junior Linux System Engineer and progressed to become a Cloud Security Engineer. I thrive on collaborating with like-minded individuals to achieve success. My tech stack includes Golang, PostgreSQL, Python, Bash, HTML, CSS, JavaScript, and AWS, with core skills in Golang, PostgreSQL, Linux, and AWS. I have a particular interest in FinTech and government projects.
+I am Liban Omer, who came to London at the age of 11 without formal education. Since then, I've tirelessly pursued education and developed a passion for Technology. I began my career as a Junior Linux System Engineer and progressed to become a Cloud Security Engineer. I thrive on collaborating with like-minded individuals to achieve success. My tech stack includes Golang, PostgreSQL, Python, Bash, HTML, CSS, JavaScript, and AWS, with core skills in Golang, PostgreSQL, Linux, and AWS. I have a particular interest in FinTech and government projects.
 
 * 🌍  I'm based in London
 * 🧠  I'm learning generative-ai and Terraform
